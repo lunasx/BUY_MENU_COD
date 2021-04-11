@@ -12,6 +12,7 @@ $? tab[2].active = 0
 $? tab[3].active = 0
 $? tab[4].active = 0
 $? tab[5].active = 0
+$? tab[6].active = 0
 };
 
 Rules:256.56.00.0
