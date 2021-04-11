@@ -1,0 +1,17 @@
+Rules{
+$? circle.size = 378.f
+$? circle.pos = 240:95
+$? circle.radius = 95.f
+$? circle.rounding = 200.f
+
+$? btn.size = unknown:1
+$? btn.pos = unknown:1
+
+$? tab[1].active = 1
+$? tab[2].active = 0
+$? tab[3].active = 0
+$? tab[4].active = 0
+$? tab[5].active = 0
+};
+
+Rules:256.56.00.0
