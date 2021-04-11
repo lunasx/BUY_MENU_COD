@@ -1,0 +1,54 @@
+
+c_ptx::circle(Draw)[4]::Rules {
+  c_ptx::btn(Set.1)[2]::Rules{
+    c_ptx::tab[1].Set.1::Rules = 1:
+     c_ptx::tab[2].Set.1::Rules = 0:
+      c_ptx::tab[3].Set.1::Rules = 0:
+       c_ptx::tab[4].Set.1::Rules = 0:
+        c_ptx::tab[5].Set.1::Rules = 0:
+         c_ptx::tab[6].Set.1::Rules = 0:
+  }
+  c_ptx::btn(Set.2)[2]::Rules{
+    c_ptx::tab[1].Set.1::Rules = 0:
+     c_ptx::tab[2].Set.1::Rules = 1:
+      c_ptx::tab[3].Set.1::Rules = 0:
+       c_ptx::tab[4].Set.1::Rules = 0:
+        c_ptx::tab[5].Set.1::Rules = 0:
+         c_ptx::tab[6].Set.1::Rules = 0:
+  }
+  c_ptx::btn(Set.3)[2]::Rules{
+    c_ptx::tab[1].Set.1::Rules = 0:
+     c_ptx::tab[2].Set.1::Rules = 0:
+      c_ptx::tab[3].Set.1::Rules = 1:
+       c_ptx::tab[4].Set.1::Rules = 0:
+        c_ptx::tab[5].Set.1::Rules = 0:
+         c_ptx::tab[6].Set.1::Rules = 0:
+  }
+  c_ptx::btn(Set.4)[2]::Rules{
+    c_ptx::tab[1].Set.1::Rules = 0:
+     c_ptx::tab[2].Set.1::Rules = 0:
+      c_ptx::tab[3].Set.1::Rules = 0:
+       c_ptx::tab[4].Set.1::Rules = 1:
+        c_ptx::tab[5].Set.1::Rules = 0:
+         c_ptx::tab[6].Set.1::Rules = 0:
+  }
+  c_ptx::btn(Set.5)[2]::Rules{
+    c_ptx::tab[1].Set.1::Rules = 0:
+     c_ptx::tab[2].Set.1::Rules = 0:
+      c_ptx::tab[3].Set.1::Rules = 0:
+       c_ptx::tab[4].Set.1::Rules = 0:
+        c_ptx::tab[5].Set.1::Rules = 1:
+         c_ptx::tab[6].Set.1::Rules = 0:
+  }
+  c_ptx::btn(Set.6)[2]::Rules{
+    c_ptx::tab[1].Set.1::Rules = 0:
+     c_ptx::tab[2].Set.1::Rules = 0:
+      c_ptx::tab[3].Set.1::Rules = 0:
+       c_ptx::tab[4].Set.1::Rules = 0:
+        c_ptx::tab[5].Set.1::Rules = 0:
+         c_ptx::tab[6].Set.1::Rules = 1:
+  }
+}
+
+
+Rules:256.56.00.0
